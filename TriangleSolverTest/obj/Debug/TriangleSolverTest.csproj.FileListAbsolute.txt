@@ -1,0 +1,17 @@
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTest.csproj.AssemblyReference.cache
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTest.csproj.CoreCompileInputs.cache
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\nunit.engine.dll
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\nunit.engine.api.dll
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\nunit.engine.core.dll
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\TriangleSolverTest.dll
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\TriangleSolverTest.pdb
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\nunit.framework.dll
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\TriangleSolver.dll
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\TriangleSolver.pdb
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\bin\Debug\nunit.framework.xml
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTest.csproj.CopyComplete
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTest.dll
+C:\Users\jaina\Downloads\TriangleSolver\TriangleSolverTest\obj\Debug\TriangleSolverTest.pdb
